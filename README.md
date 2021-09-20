@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sharukhplr024
+- 👋 Hi, I’m @Sharukh Khan
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning GitHub
 - 💞️ I’m looking to collaborate on Myself
